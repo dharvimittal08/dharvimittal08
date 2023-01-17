@@ -2,8 +2,27 @@
   <img src="Studio_Project.gif" width="4000" alt="Hi, I'm Dharvi 👋 I'm a 🚀 Software developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Dharvi Mittal</h1> -->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Dharvi Mittal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A passionate software developer with expertise in artificial intelligence and machine learning. I am particularly interested in developing intelligent systems and solving real-world problems using AI and ML techniques. In my previous work, I have applied these skills to projects involving natural language processing, computer vision, and predictive analytics. I am excited to continue learning and growing as an AI and ML engineer, and to contribute to projects on GitHub that push the boundaries of what is possible with these technologies.</h3>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Dharvi = {
+  pronouns: "she" | "her",
+  code: [Java, Python, C, C++, PHP, Javascript, HTML, CSS],
+  technologies_frameworks: [Django, Flask, React Native, Selenium, cuDF, Dask, PuTTY, Scrappy, Beautiful Soup],
+  technical_skills: [Data Structures and Algorithms, OOPS, APIs, Database Querying, Agile Scrum],
+  modeling_and_analysis: [Machine Learning, Deep Learning, Natural Language Processing],
+  dev_tools: [Virtual Box, Power BI, Android Studio, MS Office, H2O.ai, Git, VS Code, BitBucket, Trello],
+  dbms: [MySQL, PostgreSQL, MongoDB],
+  libraries: [ScikitLearn, TensorFlow, Keras],
+  soft_skills: [Time Management, Problem Solving Skills, Adaptability & Flexibility, Multitasking,Communication Skills],
+  
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on DSA and React"
+}
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharvimittal08&label=Profile%20views&color=0e75b6&style=flat" alt="dharvimittal08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharvimittal08" alt="dharvimittal08" /></a> </p>
@@ -30,3 +49,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharvimittal08&show_icons=true&locale=en" alt="dharvimittal08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharvimittal08&" alt="dharvimittal08" /></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
