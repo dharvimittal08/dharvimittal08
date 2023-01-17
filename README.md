@@ -1,5 +1,7 @@
-<ing src = "https://github.com/dharvimittal08/dharvimittal08/blob/main/Tech_Background.png?raw=true">
-<h1 align="center">Hi 👋, I'm Dharvi Mittal</h1>
+<p align="center">
+  <img src="Studio_Project.gif" width="4000" alt="Hi, I'm Dharvi 👋 I'm a 🚀 Software developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Dharvi Mittal</h1> -->
 <h3 align="center">A passionate software developer with expertise in artificial intelligence and machine learning. I am particularly interested in developing intelligent systems and solving real-world problems using AI and ML techniques. In my previous work, I have applied these skills to projects involving natural language processing, computer vision, and predictive analytics. I am excited to continue learning and growing as an AI and ML engineer, and to contribute to projects on GitHub that push the boundaries of what is possible with these technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharvimittal08&label=Profile%20views&color=0e75b6&style=flat" alt="dharvimittal08" /> </p>
