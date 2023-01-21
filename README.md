@@ -1,5 +1,6 @@
 <p align="center">
   <img src="Studio_Project.gif" width="4000" alt="Hi, I'm Dharvi 👋 I'm a 🚀 Software developer 🚀 I ❤️ Happy Hardcore ❤️">
+  
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Dharvi Mittal</h1> -->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Dharvi Mittal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
@@ -47,6 +48,7 @@ const Dharvi = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharvimittal08&show_icons=true&locale=en&layout=compact" alt="dharvimittal08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharvimittal08&show_icons=true&locale=en" alt="dharvimittal08" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharvimittal08&" alt="dharvimittal08" /></p>
 
