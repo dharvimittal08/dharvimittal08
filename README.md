@@ -6,8 +6,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Dharvi Mittal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A passionate software developer with expertise in artificial intelligence and machine learning. I am particularly interested in developing intelligent systems and solving real-world problems using AI and ML techniques. In my previous work, I have applied these skills to projects involving natural language processing, computer vision, and predictive analytics. I am excited to continue learning and growing as an AI and ML engineer, and to contribute to projects on GitHub that push the boundaries of what is possible with these technologies.</h3>
 
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
