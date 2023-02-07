@@ -50,11 +50,9 @@ const Dharvi = {
 
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
-
   
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharvimittal08&show_icons=true&locale=en&layout=compact" alt="dharvimittal08" /></p>
 
