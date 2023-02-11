@@ -1,7 +1,6 @@
 <p align="center">
   <img src="Studio_Project.gif" width="4000" alt="Hi, I'm Dharvi 👋 I'm a 🚀 Software developer 🚀 I ❤️ Happy Hardcore ❤️">
-  
-  
+ 
   
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Dharvi Mittal</h1> -->
