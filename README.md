@@ -13,7 +13,7 @@
 const Dharvi = {
   pronouns: "she" | "her",
   code: [Java, Python, C, C++, PHP, Javascript, HTML, CSS],
-  technologies_frameworks: [Django, Flask, React Native, Selenium, cuDF, Dask, PuTTY, Scrappy, Beautiful Soup],
+  technologies_frameworks: [Django, Flask, React Native, Selenium, PuTTY, Scrappy, Beautiful Soup],
   technical_skills: [Data Structures and Algorithms, OOPS, APIs, Database Querying, Agile Scrum],
   modeling_and_analysis: [Machine Learning, Deep Learning, Natural Language Processing],
   dev_tools: [Virtual Box, Power BI, Android Studio, MS Office, H2O.ai, Git, VS Code, BitBucket, Trello],
